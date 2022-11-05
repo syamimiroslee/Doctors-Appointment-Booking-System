@@ -1,5 +1,6 @@
 # Doctors-Appointment-Booking-System
 Developed using JAVA.
+This system helps the patient to schedule an appointment of doctors without visiting the clinic physically. 
 
 Explanation:
 Doctor-Patient Appointment Booking System:
