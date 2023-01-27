@@ -41,4 +41,4 @@ The user will log in to his account with the details he provided while registeri
 	If the admin selects any of the first three options, the respected list will be displayed on the screen and he will be asked if you want to go back to the previous menu or main menu. If the admin selects the 4th option then he will be redirected to the main menu. 
 
 4. Exit: 
-If the user selects the 4th option from the main menu, the program will stop its execution.
+If the user selects the 4th option from the main menu, the program will stop its execution and it will display "Thank You For Using This System".
